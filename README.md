@@ -1,4 +1,4 @@
-# SiczzFind
+# ScizzFind
 
 A new Flutter project.
 
